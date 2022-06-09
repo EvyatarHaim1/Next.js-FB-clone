@@ -2,7 +2,7 @@ Facebook clone:
 
 - Next.js
 - Firebase firestore DB
-- Next.auth
+- NextAuth.js - authentication
 - tailwind css
 - heroicons
 - yarn

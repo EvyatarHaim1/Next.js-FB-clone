@@ -47,13 +47,6 @@ const Header = () => {
       </div>
 
       <div className="flex items-center sm:space-x-2 justify-end">
-        {/* <Image
-          src="https://www.facebook.com/photo.php?fbid=10158993533511947&set=pb.563001946.-2207520000..&type=3"
-          width={40}
-          height={40}
-          layout="fixed"
-          alt="avatar"
-        /> */}
         <p className="whitespace-nowrap font-semibold pr-3">Evyatar Haim</p>
         <ViewGridIcon className="icon" />
         <ChatIcon className="icon" />
